@@ -1,0 +1,1 @@
+PopCount is a Go package (learning purpose) that efficiently computes the population count (number of set bits) in a uint64 integer. It leverages precomputed lookup tables to achieve fast bit counting.
